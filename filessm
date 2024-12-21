@@ -1,0 +1,6 @@
+hi{
+    color: rgb(255, 0, 0);
+}
+body{
+    background-color: rgb(6, 2, 15);
+}
